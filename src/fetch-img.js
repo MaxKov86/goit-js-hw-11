@@ -1,5 +1,4 @@
 import axios from 'axios';
-import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 const KEY = '32048668-e2fb2d2180cb5d2e63ce535ce';
 
